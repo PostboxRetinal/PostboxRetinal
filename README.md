@@ -1,4 +1,4 @@
-- 👀 Interested in Programming, IT and network security / protocols
+- 👀 Interested in Coding, IT and network security / protocols
 
 <!---
 b4s714n/b4s714n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
