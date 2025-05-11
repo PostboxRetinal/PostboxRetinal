@@ -11,7 +11,7 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PostboxRetinal&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-tau-one-94.vercel.app/api?username=PostboxRetinal&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 
