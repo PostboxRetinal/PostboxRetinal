@@ -1,27 +1,42 @@
 # 👋 Hi there, I'm Sebastian Balanta
-### CS Student | FOSS Enthusiast | Linux Hobbyist
+
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&random=true&width=435&lines=CS+Student;Backend+Developer;Hobbyist+Ethical+Hacker;Linux+Enthusiast;Cybersecurity+Guy;Open+Source+Contributor;FOSS+Enthusiast;Coffee+Lover+❤️" />
+</div>
+
+## 💡 Value Proposition
+
+_"Cybersecurity-first mindset"._
 
 ## 📫 How to Reach Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ascent-crowd-reaffirm/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](https://github.com/PostboxRetinal)
 
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+## 📈 GitHub Stats & Activity
 
-## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-tau-one-94.vercel.app/api?username=PostboxRetinal&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
+## 🛠️ Technologies & Tools
 
-## 🌱 Constantly Learning
-- Linux as a daily driver, hardenning and cybersec
-- Ethical Hacking
-- Automated local/cloud deploys
-- CI/CD, github depths
+### 🐧 Operating Systems & Infrastructure
 
-<!---
-b4s714n/b4s714n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
+
+### 🔧 Virtualization & Containerization
+
+![KVM](https://img.shields.io/badge/KVM-326CE5?style=for-the-badge&logo=qemu&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
+
+### 🔒 Security & Monitoring
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=shield-check&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white)
