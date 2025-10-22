@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sebastian Balanta
+# 🤙🏾 Heey, I'm Sebastian
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&random=true&width=435&lines=CS+Student;Backend+Developer;Hobbyist+Ethical+Hacker;Linux+Enthusiast;Cybersecurity+Guy;Open+Source+Contributor;FOSS+Enthusiast;Coffee+Lover+❤️" />
@@ -7,11 +7,6 @@
 ## 💡 Value Proposition
 
 _"Cybersecurity-first mindset"._
-
-## 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ascent-crowd-reaffirm/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](https://github.com/PostboxRetinal)
 
 ## 📈 GitHub Stats & Activity
 
