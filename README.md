@@ -10,9 +10,8 @@ _"Cybersecurity-first mindset"._
 
 ## 📈 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats-tau-one-94.vercel.app/api?username=PostboxRetinal&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ## 🛠️ Technologies & Tools
 
