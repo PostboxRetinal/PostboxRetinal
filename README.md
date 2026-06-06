@@ -5,7 +5,7 @@
 </div>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Linux+Systems+Enthusiast;Cybersecurity+%26+DevSecOps;Backend+Developer;FOSS+Advocate;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=2BBC8A&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Linux+Systems+Enthusiast;Cybersecurity+%26+DevSecOps;Backend+Developer;FOSS+Advocate;Open+Source+Contributor" />
 </div>
 
 ## 🧍🏾 About Me
