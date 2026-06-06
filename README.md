@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sebastian
+# Hey, I'm Sebastian ☕
 
 </div>
 
@@ -20,15 +20,19 @@
 
 ## 📈 GitHub Stats & Activity
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
   <img src="./profile/stats-light.svg" alt="GitHub Stats">
 </picture>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
   <img src="./profile/top-langs-light.svg" alt="Top Languages">
 </picture>
+
+</div>
 
 ## 🛠️ Technologies & Tools
 
