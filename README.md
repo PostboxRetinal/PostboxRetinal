@@ -20,8 +20,15 @@
 
 ## 📈 GitHub Stats & Activity
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img src="./profile/stats-light.svg" alt="GitHub Stats">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <img src="./profile/top-langs-light.svg" alt="Top Languages">
+</picture>
 
 ## 🛠️ Technologies & Tools
 
